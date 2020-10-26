@@ -1,6 +1,6 @@
 # autoSubmit
 ![Go](https://github.com/yzs981130/autoSubmit/workflows/Go/badge.svg?branch=master)
-qqq
+
 本项目通过读取环境变量中的学号和密码，依次执行:cccc
 - 登录portal获取`portalToken`
 - 通过token登录portal获取cookie
