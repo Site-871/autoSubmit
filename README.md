@@ -17,7 +17,7 @@
 
 配置文件在[go.yml](.github/workflows/go.yml)，目前配置为每天北京时间8点执行一次。
 
-#### github actions 配置
+#### github actions 配置不不不
 
 - fork本项目
 - 在自己的repo下Settings/Secrets中设置USERNAME和PASSWORD，分别为学号和密码
